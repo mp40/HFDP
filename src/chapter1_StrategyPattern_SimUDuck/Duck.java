@@ -1,3 +1,5 @@
+package chapter1_StrategyPattern_SimUDuck;
+
 public abstract class Duck {
 
     FlyBehavior flyBehavior;

@@ -1,3 +1,5 @@
+package chapter1_StrategyPattern_SimUDuck;
+
 public class MallardDuck extends Duck {
 
     public MallardDuck() {
