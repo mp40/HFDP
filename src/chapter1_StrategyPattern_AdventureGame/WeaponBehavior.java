@@ -1,4 +1,5 @@
 package chapter1_StrategyPattern_AdventureGame;
 
-public class WeaponBehavior {
+public interface WeaponBehavior {
+    public void useWeapon();
 }
